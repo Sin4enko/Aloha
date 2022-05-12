@@ -50,7 +50,7 @@ body {
 }
 
 .h1 { 
-    padding: 100px 0 136px;
+    padding: 100px 0 100px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -62,7 +62,6 @@ body {
 
 .img {
 width: 100%;
-
 }
 
 .img_2 {
@@ -71,6 +70,7 @@ width: 100%;
 
 .img_3 {
    width: 100%;
+   max-width: 800px;
 }
 
 .h1_p1 {
@@ -156,8 +156,8 @@ width: 100%;
     font-size: 38px;
     line-height: 44px;
     color: #4B321D;
-    max-width: 350px;
-    /* margin-right: 202px; */
+    text-align: left;
+    
 }
 
 .section_4 {
@@ -270,7 +270,6 @@ width: 100%;
 @media screen and (max-width: 900px) {
       .h1 { 
         font-size: 30px;
-        /* padding: 0; */
         line-height: 30px;
     }
 }
@@ -312,7 +311,7 @@ width: 100%;
 
 
 @media screen and (max-width: 900px) {
-    .section_4{
+    .section_4 {
         /* min-width: 500px; */
     }
 }
