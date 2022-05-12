@@ -336,14 +336,7 @@ width: 100%;
 @media screen and (max-width: 900px) {
     .h1_p3 {
         font-size: 30px;
-    }
-    
-}
-
-@media screen and (max-width 649px) {
-    .header {
-              
-    }
+    } 
 }
 
 @media screen and (max-width: 900px) {
@@ -351,5 +344,4 @@ width: 100%;
         flex-wrap: wrap;
         padding-top: 20px;
     }
-    
 }
