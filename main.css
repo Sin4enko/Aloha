@@ -339,7 +339,7 @@ width: 100%;
     } 
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 910px) {
     .footer_links {
         flex-wrap: wrap;
         padding-top: 20px;
